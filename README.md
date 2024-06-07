@@ -4,7 +4,7 @@ Welcome to the **Landing Page Project**! This project showcases a beautifully de
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Project : https://roshansakthivel.github.io/PRASUNET_WD_01/
+Check out the live demo of the Project : https://roshansakthivel.github.io/Prasunet_WD_01/
 
 
 ## ✨ Features
